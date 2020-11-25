@@ -1,8 +1,10 @@
 
 /* ===hero=== */
 .hero{
+    padding-top: 200px;
+    padding-bottom: 280px;
     text-align: center;
-    background-color: darkslategray;
+    background-color:#2F303A;
 
 }
 .hero-title{
@@ -22,7 +24,6 @@
 
 .button{
     display: inline-block;
-    border-radius: 4px;
     padding: 10px 32px;
     min-width: 200px;
 

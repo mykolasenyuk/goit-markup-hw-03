@@ -33,7 +33,6 @@
 /* ===buttons=== */
 .button{
     display: inline-block;
-    border-radius: 4px;
     padding: 6px 22px;
     min-width: 73px;
 
@@ -45,16 +44,14 @@
     line-height: 1.63;
     text-align: center;
 }
+
 .button:hover,
 .button:focus{
     color: var(--primary-white-color);
     background-color: var(--accent-color) ;
 }
 
-.filter-nav .button.current{
-    color: var(--primary-white-color);
-    background-color: var(--accent-color);
-}
+
 /* ===end buttons=== */
 
 
