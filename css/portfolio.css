@@ -85,7 +85,7 @@
     width: calc((100% - 60px) / 3);
     margin-right: 30px;
     margin-bottom: 30px;
-    border: 1px solid #EEEEEE;
+    outline: 1px solid #EEEEEE;
    
 } 
 
@@ -102,6 +102,7 @@
     margin-bottom: 20px;
 }
 .project-list-img{
+    display: block;
     margin-top: 0;
     margin-bottom: 0;
 
