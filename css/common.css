@@ -58,6 +58,7 @@ a{text-decoration: none;
 
 /* ===logo=== */
 .logo{
+    display: block;
     color: var(--accent-color);
     font-family: Raleway;
     font-weight: bold;
