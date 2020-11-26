@@ -37,6 +37,7 @@ a{text-decoration: none;
 
     font-family: Roboto, sans-serif;
     letter-spacing: 0.03em;
+    
 }
 
 
@@ -141,7 +142,7 @@ a{text-decoration: none;
     padding-bottom: 21px;
    
     
-    color: var(--custom-text-color);
+    color: var(--text-color);
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;

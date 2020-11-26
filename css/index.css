@@ -86,11 +86,13 @@
     color: var(--text-color);
     margin-top: 0;
     margin-bottom: 0;
+    padding: 0;
  
     }
     
     .feature-list .item{
         width: 270px;
+        margin: auto;
 
     }
 
@@ -123,9 +125,7 @@
     flex-wrap: nowrap;
     padding: 0;
     
- 
    
-    
   
 }
 .image-list-item{

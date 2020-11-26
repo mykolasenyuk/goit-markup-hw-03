@@ -1,13 +1,17 @@
 
 /* ===sections=== */
 
-.section{padding-top: 94px;
-    padding-bottom: 94px;
+.section{
+
     margin-top: 0;
     margin-bottom: 0;
     color: var(--text-color);
    
 
+}
+.section> .portfolio{
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
 /* ===end sections=== */
 
@@ -15,23 +19,29 @@
 /* ===filters nav=== */
 .filter-nav.list{
     justify-content: center;
+  
 }
 
 .filter-nav{
+    padding: 0;
     display: flex;
-    margin-top: 0px;
+    margin: 0;
     margin-bottom: 50px;
     list-style: none;
   
 }
 .filter-nav-button+ .filter-nav-button{
     margin-left: 8px;
+    
 }
 /* ===end filters nav=== */
 
 
 /* ===buttons=== */
 .button{
+    border: none;
+    outline-style: none;
+    border-radius: 4px;
     display: inline-block;
     padding: 6px 22px;
     min-width: 73px;
@@ -75,6 +85,7 @@
     width: calc((100% - 60px) / 3);
     margin-right: 30px;
     margin-bottom: 30px;
+    border: 1px solid #EEEEEE;
    
 } 
 
