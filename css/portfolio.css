@@ -19,13 +19,13 @@
 /* ===filters nav=== */
 .filter-nav.list{
     justify-content: center;
+    align-items: center;
   
 }
 
 .filter-nav{
-    padding: 0;
     display: flex;
-    margin: 0;
+    flex-wrap: nowrap;
     margin-bottom: 50px;
     list-style: none;
   
