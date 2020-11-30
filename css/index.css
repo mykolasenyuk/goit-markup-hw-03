@@ -32,6 +32,7 @@
     cursor: pointer;
     border-radius: 4px;
     border: none;
+    outline-style: none;
     color: var(--custom-text-color);
     background-color: #F5F4FA;
     font-family: inherit;
